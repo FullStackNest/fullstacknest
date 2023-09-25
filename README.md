@@ -7,7 +7,7 @@
 
 - 👨‍💻 Checkout our website [https://fullstacknest.com/](https://fullstacknest.com/)
 
-- 📫 How to reach me **fullstacknest@gmail.com**
+- 📫 How to reach us **fullstacknest@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
